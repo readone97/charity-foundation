@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav className="bg-white-400 p-4 text-teal-900 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
-        <a href="#home" className="text-2xl font-bold">Yaribawa Charity Foundation</a>
+        <a href="#home" className="text-2xl font-bold">Yarbaiwa Charity Foundation</a>
         
         {/* Desktop Links */}
         <div className="hidden md:flex space-x-6">
