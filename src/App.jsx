@@ -21,7 +21,7 @@ const App = () => {
         <div className="container mx-auto flex flex-col  md:flex-row items-center">
           <div className="w-full md:w-1/2 p-4">
             <h1 className="text-4xl font-bold text-teal-900 mb-6">MAKE A DIFFERENCE</h1>
-            <p className="text-md justify mb-10">Welcome to Yaribawa Charity Foundation! Our mission is to uplift underserved communities through education, healthcare, and sustainable development. We believe in empowering individuals to create lasting change. Join us in making a difference, every contribution counts!</p>
+            <p className="text-md justify mb-10">Welcome to Yarbaiwa Charity Foundation! Our mission is to uplift underserved communities through education, healthcare, and sustainable development. We believe in empowering individuals to create lasting change. Join us in making a difference, every contribution counts!</p>
             <a href="#donate" className="bg-teal-900 text-white py-2 px-4 rounded hover:bg-teal-950">Donate Now</a>
           </div>
           <div className="w-full md:w-1/2 p-4">
